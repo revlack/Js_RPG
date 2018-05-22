@@ -1,0 +1,11 @@
+﻿{
+	"TipoTela":"mudaMensagem",
+	"Message":"Você vai para entrada da cidade e encontra uma grande criatura asquerosa,  junto com o corpo de dois conhecidos soldados. O cheiro é tão ruim que te deixa levemente tonto (-4 hp)",
+	"Opcoes": 
+	{
+		"8": "Continuar"
+	},
+	"HPChange":-4,
+	"TempoOpcoes":7000	
+	
+}

@@ -1,0 +1,11 @@
+{
+	 "TipoTela":"Combate",
+	 "Nome":"Globin",
+	 "AC":2,
+	 "ATK":20,
+	 "MAXHP":10, 
+	 "HP":10, 
+	 "Dano":"d8",
+	 "Vitoria":30,
+	 "Derrota":31
+}

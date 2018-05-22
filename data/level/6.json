@@ -1,0 +1,10 @@
+﻿{
+	"TipoTela":"mudaMensagem",
+	"Message":"- 'Rei Argorth, venha para os portões da cidade ver o que aconteceu!' Diz o capitão da cidade com medo nos olhos.",
+	"Opcoes": 
+	{
+		"7": "Continuar"
+	},
+	"TempoOpcoes":9000	
+	
+}

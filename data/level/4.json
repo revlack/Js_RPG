@@ -1,0 +1,10 @@
+﻿{
+	"TipoTela":"mudaMensagem",
+	"Message":"Sua Rainha, Alice Phir , também é de confiança. O difícil é controlá-la, sendo uma amazona que está com ódio da derrota da grande guerra. Ela também lidera uma tropa de amazonas.",
+	"Opcoes": 
+	{
+		"5": "Continuar"
+	},
+	"TempoOpcoes":15000	
+	
+}

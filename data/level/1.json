@@ -1,0 +1,13 @@
+﻿{
+	"TipoTela":"AjustaTelaMusica",
+	"Background":"bg.jpg",
+	"Music":"Epoq-Lepidoptera.mp3",
+	"Message":"Seu nome é Argorth Phir Você é um rei generoso, mas seu o povo não reconhece tanto os seus esforços.  Depois da última grande guerra  - o reinado que você lidera – Guithar – sofre de problemas econômicos devido  aos altíssimos impostos da capital.",
+	"Opcoes": 
+	{
+		"2": "Continuar",
+		"cbt/globin": "Lutar com o globin! (teste)"	
+	},
+	"TempoOpcoes":15000	
+	
+}

@@ -1,0 +1,11 @@
+﻿{
+	"TipoTela":"mudaMensagem",
+	"Message":"Você é um rei improvável que assumiu o reino no decorrer da grande guerra, onde todos os familiares diretos ao trono foram derrotados.",
+	"Opcoes": 
+	 {
+		"3": "Continuar"
+	},
+	"TempoOpcoes":9000	
+	
+	
+}

@@ -1,0 +1,12 @@
+﻿{
+	"TipoTela":"mudaMensagem",
+	"Message":"-'Rei Argorth, essa criatura invadiu a cidade e atacou os soldados, ela lutou contra três dos nossos melhores e conseguiu abater dois homens!  Foram vistas outras dessas Bestas atacando nossos cavalos que fugiram. O que faremos?'",
+	"Opcoes": 
+	{
+		"9": "Sair com uma tropa para vasculhar a área",
+		"10": "Pedir para o Mago estudar a criatura para tomar alguma decisão",
+		"11": "Ir você mesmo a procura de outros exemplares da criatura."
+	},
+	"TempoOpcoes":15000	
+	
+}

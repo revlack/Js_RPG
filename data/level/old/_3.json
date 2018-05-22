@@ -1,0 +1,10 @@
+﻿{
+	"TipoTela":"mudaMensagem",
+	"Message":"A carta tem uma mensagem muito direta que você deve largar o reino, pois foi vista uma legião de orcs a caminho de suas terras",
+	"Opcoes": 
+	 {
+		"4": "Preparar para Largar suas terras",
+		"5": "Não confiar. Pedir auxilio do conselho."		
+	}
+	
+}

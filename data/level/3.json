@@ -1,0 +1,9 @@
+﻿{
+	"TipoTela":"mudaMensagem",
+	"Message":"Como quase todo rei, você tem poucas pessoas que confia: Robert, que apensar de autoritário e mal educado possui um bom coração, ele foi um dos poucos que o auxiliou após a derrota da grande guerra.  Outra pessoa de confiança é o Mago Jobson, o sábio máximo do seu reinado que ultimamente tem feito escolhas ruins e está vivendo uma espécie de isolamento na torre mágica do reino.  ",
+	"Opcoes": 
+	{
+		"4": "Continuar"
+	},
+	"TempoOpcoes":25000	
+}
